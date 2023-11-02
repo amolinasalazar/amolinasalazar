@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p>
-
 <a href="https://github.com/amolinasalazar">
   <img height=200 align="center" src="https://github-readme-stats-bice-seven-51.vercel.app/api?username=amolinasalazar&hide=issues&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
